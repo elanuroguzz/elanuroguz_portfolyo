@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Elanur Oğuz | Portfolyo Web Sitesi
 
-## Getting Started
+Bu proje, **Elanur Oğuz (Bilgisayar Programcısı)** için hazırlanmış modern, hızlı ve duyarlı (responsive) bir portfolyo web sitesidir. 
 
-First, run the development server:
+Next.js App Router mimarisi ve saf CSS kullanılarak, modern ve akıcı animasyonlarla zenginleştirilmiş premium Gece Mavisi karanlık tema tonlarında tasarlanmıştır.
 
+## 🚀 Canlı Web Sitesi
+Sitenin internetteki canlı haline aşağıdaki adresten ulaşabilirsiniz:
+👉 **[https://elanuroguz-portfolyo.vercel.app](https://elanuroguz-portfolyo.vercel.app)**
+
+*(Not: Vercel üzerinde oluşturulan alternatif adres: [https://elanuroguz-portfolyo-elanuroguzzs-projects.vercel.app](https://elanuroguz-portfolyo-elanuroguzzs-projects.vercel.app))*
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+- **Framework:** Next.js 15+ (App Router)
+- **Kütüphane:** React 19
+- **Stil:** Vanilla CSS (CSS Variables, Glassmorphism, Custom Animations & Keyframes)
+- **Tasarım Konsepti:** Premium Dark Mode (Gece Mavisi) ve Responsive Mobil Uyumlu Arayüz
+
+---
+
+## 📁 Proje Sayfaları
+1. **Ana Sayfa:** Karşılama başlığı, unvan, dinamik morphing animasyonlu görsel ve hızlı yönlendirme butonları.
+2. **Hakkımda:** Eğitim hedefleri, vizyon ve gelecek hedefleri (OOP, Veritabanı Yönetimi, Agile/Scrum).
+3. **Eğitim & Yetenekler:** Programlama dilleri (Python, C#), Veri tabanı (SQL, DBMS), Araçlar (Git, GitHub, VS Code, Visual Studio), Eğitim kronolojik zaman çizelgesi (Timeline) ve sertifikalar.
+4. **İletişim:** E-posta, LinkedIn, GitHub iletişim kanalları ve etkileşimli mesaj formu.
+
+---
+
+## 💻 Yerel Geliştirme (Local Development)
+
+Projeyi kendi bilgisayarınızda çalıştırmak için:
+
+1. Bağımlılıkları yükleyin:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Geliştirme sunucusunu başlatın:
+```bash
+npm run dev
+```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Tarayıcınızda `http://localhost:3000` adresini açarak siteyi görüntüleyebilirsiniz.
