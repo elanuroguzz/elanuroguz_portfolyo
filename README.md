@@ -1,5 +1,7 @@
 # Elanur Oğuz | Portfolyo Web Sitesi
 
+👉 **Canlı Site Linki:** [https://elanuroguz-portfolyo.vercel.app](https://elanuroguz-portfolyo.vercel.app)
+
 Bu proje, **Elanur Oğuz (Bilgisayar Programcısı)** için hazırlanmış modern, hızlı ve duyarlı (responsive) bir portfolyo web sitesidir. 
 
 Next.js App Router mimarisi ve saf CSS kullanılarak, modern ve akıcı animasyonlarla zenginleştirilmiş premium Gece Mavisi karanlık tema tonlarında tasarlanmıştır.
